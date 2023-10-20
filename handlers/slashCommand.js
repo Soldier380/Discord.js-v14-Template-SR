@@ -1,5 +1,4 @@
 const fs = require('fs');
-const chalk = require('chalk');
 
 const { PermissionsBitField } = require('discord.js');
 const { Routes } = require('discord-api-types/v9');
